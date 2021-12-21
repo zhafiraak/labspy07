@@ -153,3 +153,6 @@ elif pilih ==4:
   elif pilih ==5 :
         exit()
 ```
+
+### Selesai
+## Terima kasih
